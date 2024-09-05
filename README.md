@@ -1,7 +1,7 @@
 ## Several my projects just for fun:
 
-# [ua-video-online](https://github.com/mgerasika/ua-video-online)
-Website scrapper that allow watch videos from rezka web site. Scrapped only videos with ukrainian and original translations. Just for home usage - not commercial. All streams periodically stored in own db. Also all movies have relation to imdb website.
+# [ua-video-online](https://github.com/mgerasika/ua-video-online) 
+TEMPORARY BLOCKED IN SEVERAL COUNTRIES. Need VPN. Website scrapper that allow watch videos from rezka web site. Scrapped only videos with ukrainian and original translations. Just for home usage - not commercial. All streams periodically stored in own db. Also all movies have relation to imdb website.
 #### [demo](https://github.com/mgerasika/ua-video-online)
 #### ![image](https://github.com/mgerasika/mgerasika/assets/10614750/95238653-d4f3-400d-bc76-ac1647f60a5d)
 
