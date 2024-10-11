@@ -5,6 +5,12 @@ TEMPORARY BLOCKED IN SEVERAL COUNTRIES. Need VPN. Website scrapper that allow wa
 #### [demo](https://github.com/mgerasika/ua-video-online)
 #### ![image](https://github.com/mgerasika/mgerasika/assets/10614750/95238653-d4f3-400d-bc76-ac1647f60a5d)
 
+# [youtube-bot-detector](https://github.com/mgerasika/youtube-bot) 
+
+#### [demo](https://bot-landing-6a052.web.app/)
+Show bot comments on your youtube page
+#### ![image](https://github.com/mgerasika/mgerasika/assets/10614750/95238653-d4f3-400d-bc76-ac1647f60a5d)
+
 # [wood-printer](https://github.com/mgerasika/arduino-plotter)
 Wood Printer is arduino-based device,created in 2013 based by simple mechanical thinks. Printer comunicate with API server and has simple JavaScript API.
 #### [demo](https://arduino-plotter.web.app/)
