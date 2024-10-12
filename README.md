@@ -5,7 +5,7 @@ TEMPORARY BLOCKED IN SEVERAL COUNTRIES. Need VPN. Website scrapper that allow wa
 #### [demo](https://github.com/mgerasika/ua-video-online)
 #### ![image](https://github.com/mgerasika/mgerasika/assets/10614750/95238653-d4f3-400d-bc76-ac1647f60a5d)
 
-# [youtube-bot-detector](https://github.com/mgerasika/youtube-bot) 
+# [youtube-bot-filter](https://github.com/mgerasika/youtube-bot-filter) 
 #### [demo](https://bot-landing-6a052.web.app/)
 Show bot comments on your youtube page
 #### ![image](https://github.com/user-attachments/assets/d1304d52-c899-40e0-87e4-cd128a503f76)
